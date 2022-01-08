@@ -1,0 +1,42 @@
+.principal{
+    display: flex;
+    flex-direction:row;
+    justify-content: center;
+    padding: 10px;
+    
+   
+    
+    
+
+}
+
+.caja2{
+    background-color:hsl(31, 77%, 52%) ;
+    width: 270px;
+    border-bottom-left-radius: 10px;
+    border-top-left-radius: 10px;
+    text-align:center;
+    height: 500px;
+    padding: 10px;
+    
+    
+
+}
+
+.caja3{
+    background-color: hsl(184, 100%, 22%);
+    width: 270px;
+    text-align: center;
+    height: 500px;
+    
+}
+
+.caja4{
+    background-color: hsl(179, 100%, 13%);
+    width: 270px;
+    border-bottom-right-radius: 10px;
+    border-top-right-radius: 10px;
+    text-align: center;
+    height: 500px;
+}
+
